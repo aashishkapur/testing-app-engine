@@ -15,5 +15,5 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
 
-# - url: /page.php
-#   script: page.php
+- url: /page.php
+  script: page.php
